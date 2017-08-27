@@ -1,6 +1,6 @@
 {
   "name": "pachiroomba",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "author": "Yudai Konishi <hogehogehoihoi@gmail.com>",
   "description": "Lottery bot to decide who is in charge of cleaning the office this week.",
@@ -21,6 +21,6 @@
     "hubot-slack": "^4.4.0"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "6.10.x"
   }
 }
